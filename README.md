@@ -8,6 +8,8 @@ Being able to predict the future, even just slightly better than a coin flip, ca
 
 Please see the notebook titled "Summary_Start_Here" for a detailed road map through this project in order fully understand the process.
 
+### Process Overview
+The data for this project was sourced from MLB Advanced Media's API, baseball-reference.com and sportsbookreviewonline.com and then pre-processed into a useful form.  Four classification models were then created and optimized, which then used a voting procedure to make a final prediction.
 ![Diagram](https://github.com/kylejohnson363/Predicting-MLB-Games-with-Machine-Learning/blob/master/MLB%20Diagram.JPG)
 
 
