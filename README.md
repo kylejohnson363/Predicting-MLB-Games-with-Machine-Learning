@@ -12,7 +12,8 @@ Please see the notebook titled "Summary_Start_Here" for a detailed road map thro
 The data for this project was sourced from MLB Advanced Media's API, baseball-reference.com and sportsbookreviewonline.com and then pre-processed into a useful form.  Four classification models were then created and optimized, which then used a voting procedure to make a final prediction.
 ![Diagram](https://github.com/kylejohnson363/Predicting-MLB-Games-with-Machine-Learning/blob/master/MLB%20Diagram.JPG)
 
-
+### Benchmark to Outperform
+The performance benchmark for this project is the predictions that the Vegas odds-makers create.  If the created model can make money by betting against Vegas, then we know the model has added value.  Below is a graph showing the relationship between the confidence that Vegas has in a prediction vs the percentage of time that prediction is correct.  The orange and blue lines are quite coorelated, meaning that Vegas is quite good at predicting games, which  makes sense because they would be out of business very quickly otherwise.
 
 # Conclusions:
 -I was able to create a model that predicts MLB games more accurately and more profitably than the Vegas odds in a statistically significant way. I did this by querying data from several online baseball databases and then optimizing several different classification models, before combining them to vote on the outcome of each game.
