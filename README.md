@@ -14,6 +14,7 @@ The data for this project was sourced from MLB Advanced Media's API, baseball-re
 
 ### Benchmark to Outperform
 The performance benchmark for this project is the predictions that the Vegas odds-makers create.  If the created model can make money by betting against Vegas, then we know the model has added value.  Below is a graph showing the relationship between the confidence that Vegas has in a prediction vs the percentage of time that prediction is correct.  The orange and blue lines are quite coorelated, meaning that Vegas is quite good at predicting games, which  makes sense because they would be out of business very quickly otherwise.
+
 ![Vegas_Performance](https://github.com/kylejohnson363/Predicting-MLB-Games-with-Machine-Learning/blob/master/Vegas%20Performance.png)
 
 ### Model Results
