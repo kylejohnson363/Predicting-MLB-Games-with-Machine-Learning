@@ -8,7 +8,7 @@ Being able to predict the future, even just slightly better than a coin flip, ca
 
 Please see the notebook titled "Summary_Start_Here" for a detailed road map through this project in order fully understand the process.
 
-
+![](https://drive.google.com/open?id=1nHazvrNI34kj_O_-EH2Wl89Mg0b-0r2K)
 
 
 
