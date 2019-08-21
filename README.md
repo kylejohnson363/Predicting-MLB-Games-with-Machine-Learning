@@ -23,6 +23,8 @@ The final model was able to outperform the Vegas odds-makers with statistical si
 ![Model_Performance](https://github.com/kylejohnson363/Predicting-MLB-Games-with-Machine-Learning/blob/master/Model%20Results.JPG)
 
 ### Simulated Betting Performance
+Below is a visualization of a simulated betting account performance over the out-of-sample data starting with $1,000.
+
 ![Betting Results](https://github.com/kylejohnson363/Predicting-MLB-Games-with-Machine-Learning/blob/master/Betting%20Results.JPG)
 
 # Conclusions:
