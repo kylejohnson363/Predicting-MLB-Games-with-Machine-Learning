@@ -35,7 +35,9 @@ Below is a visualization of a simulated betting account performance over the out
 -Oddly enough, it seems that always betting with the Vegas odds is a profitable strategy but using the model created in this project is potentially almose twice as profitable.
 # Future Work:
  
-- Use more types of data (new and highly advanced statistics) and more games from previous seasons. 
+- Use more types of data (new and highly advanced statistics) and more games from previous seasons.
+
+- Optimize the number of days in the "recent" category of statistics.
 
 - Automate the process of gathering the necessary data for today's games and publishing a report of which games to bet on.
 
