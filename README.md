@@ -32,7 +32,7 @@ Below is a visualization of a simulated betting account performance over the out
 # Conclusions:
 -I was able to create a model that predicts MLB games more accurately and more profitably than the Vegas odds in a statistically significant way. I did this by querying data from several online baseball databases and then optimizing several different classification models, before combining them to vote on the outcome of each game.
 
--Oddly enough, it seems that always betting with the Vegas odds is a profitable strategy but using the model created in this project is potentially almose twice as profitable.
+-Oddly enough, it seems that always betting with the Vegas odds is a profitable strategy but using the model created in this project is potentially almose twice as profitable.  This tells us that Vegas is good at predicting MLB games but there are still inefficiencies that can be exploited.
 # Future Work:
  
 - Use more types of data (new and highly advanced statistics) and more games from previous seasons.
