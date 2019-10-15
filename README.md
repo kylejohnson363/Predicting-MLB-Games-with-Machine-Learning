@@ -1,5 +1,5 @@
 # Predicting-MLB-Games-with-Machine-Learning
-Combine classification algorithms to predict the winner of each game
+Combine classification algorithms to predict the winner of each professional baseball game
 
 Kyle Johnson
 
